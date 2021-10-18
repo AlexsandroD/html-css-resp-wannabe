@@ -75,10 +75,10 @@ img {
 
 @media  (max-width:420px){
   body{
-    width: 1024px;
     padding: 0;
+    width:100%;
     margin:0;
-    font-size:40px;
+    font-size:20px;
   }
 }
 
@@ -150,8 +150,8 @@ img {
   }
 }
 
-@media (max-width:420px){
-  #why{
-    
+@media(max-width:420px){
+  .row{
+    width:100%;
   }
 }

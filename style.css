@@ -85,6 +85,7 @@ img {
 @media(max-width:420px){
   img{
     margin-top: 50px;
+    height:100px;
   }
 }
 
@@ -110,7 +111,7 @@ img {
 
 @media(max-width:420px){
   h1{
-    font-size: 50px;
+    font-size: 30px;
     margin: 0;
   }
 
